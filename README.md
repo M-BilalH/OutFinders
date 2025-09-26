@@ -77,5 +77,3 @@ Contributions are welcome!
 This project is licensed under the **MIT License**.
 
 ---
-
-Would you like me to also design a **project logo/banner (like "OutFinder - Find Cheapest with Image")** for your README to make it look more professional?
